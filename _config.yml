@@ -2,6 +2,7 @@ name: LACI
 favicon: null
 layout_spectrum: 0.35536169866099954
 typography_spectrum: 0.25585093279369175
+title: Los Angeles Cleantech Incubator
 cta:
   domain: null
   bucket: null

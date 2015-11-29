@@ -1,7 +1,7 @@
 name: LACI
 favicon: null
-layout_spectrum: 0.20012
-typography_spectrum: 0.25585093279369175
+layout_spectrum: 0.29037
+typography_spectrum: 0.23419
 title: Los Angeles Cleantech Incubator
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#160600'
   brandStrength: 0.3125
   lightness: 0.038641785737127066
-  saturation: 0.024023402016609907
-  rhythmicContrast: 0.6007213180419058
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
